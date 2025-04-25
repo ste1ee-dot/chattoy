@@ -7,7 +7,6 @@ When you kick someone from the server, the only way for them to get in again, is
 
 
 - [ ] Get things to display<br>
-- [ ] Get thing to display multi user<br>
 - [ ] Store messages in the database with timestamps<br>
 - [ ] Make unique URL generation<br>
 - [ ] Make URL bind to the username on first use<br>
