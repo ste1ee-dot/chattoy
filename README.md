@@ -6,7 +6,8 @@ When you kick someone from the server, the only way for them to get in again, is
 ![image](https://github.com/user-attachments/assets/25265eed-a2f3-49fa-9fa1-3c7e236689a5)
 
 
-- [ ] Get things to display<br>
+- [x] Get things to display<br>
+- [ ] Make the default layout<br>
 - [ ] Store messages in the database with timestamps<br>
 - [ ] Make unique URL generation<br>
 - [ ] Make URL bind to the username on first use<br>
